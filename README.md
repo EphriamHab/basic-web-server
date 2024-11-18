@@ -90,5 +90,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by **Ephriam Hab**.  
+Developed by **Ephrem Habtamu**.  
 Feel free to reach out for any feedback or collaboration opportunities!
