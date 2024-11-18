@@ -2,6 +2,11 @@ const express = require("express");
 const app = express();
 const port = 5000;
 
+// Route: /
+
+app.get("/", (req, res) => {
+    res.status(200).send("This is simple web sever I deployed on vercel!");
+});
 // Route: /name
 app.get("/name", (req, res) => {
   res.status(200).send("Ephrem Habtamu.");
