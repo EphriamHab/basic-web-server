@@ -67,7 +67,7 @@ A simple Node.js and Express.js-based web server that responds with static messa
 ## Deployment
 
 This project is deployed online and can be accessed using the following link:  
-[Live Server](https://your-live-server-link)
+[Live Server](https://basic-web-server-omega.vercel.app/)
 
 ---
 
