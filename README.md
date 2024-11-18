@@ -32,7 +32,7 @@ A simple Node.js and Express.js-based web server that responds with static messa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/basic-web-server.git
+   git clone https://github.com/EphriamHab/basic-web-server.git
    cd basic-web-server
 
 2. Install dependencies:
@@ -49,4 +49,46 @@ A simple Node.js and Express.js-based web server that responds with static messa
    http://localhost:5000/hobby
    http://localhost:5000/dream
 
- 
+5. Open your browser or Postman and test the routes:
+
+
+---
+
+## Routes and Expected Responses
+
+| Route     | HTTP Method | Response Type | Example Response                                           |
+|-----------|-------------|---------------|-----------------------------------------------------------|
+| `/name`   | GET         | Plain text  | `Ephrem Habtamu.`                                             |
+| `/hobby`  | GET         | JSON        | `{ "hobby": "Reading book and Listening music" }`                            |
+| `/dream`  | GET         | Plain text  | `My dream is to build impactful software solutions that change lives.'`  |
+
+---
+
+## Deployment
+
+This project is deployed online and can be accessed using the following link:  
+[Live Server](https://your-live-server-link)
+
+---
+
+## Contributing
+
+Contributions are welcome! To contribute:
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes and commit them (`git commit -m "Description of changes"`).
+4. Push to the branch (`git push origin feature-name`).
+5. Submit a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License. 
+
+---
+
+## Author
+
+Developed by **Ephriam Hab**.  
+Feel free to reach out for any feedback or collaboration opportunities!
